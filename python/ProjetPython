@@ -47,7 +47,7 @@ connexion_principale.close()
 SERVEUR
 ------------------------------------
 import socket
-hote = “172.180.0.129”
+hote = “172.180.0.196”
 port = 12800
 
 ### Connection to server & id sending ###
